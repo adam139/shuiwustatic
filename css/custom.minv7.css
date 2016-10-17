@@ -65,7 +65,7 @@ img.right{float:right}
 }
 .report .table {margin-bottom:0}
 .inner {padding:0;}
-.table .data {}
-.inner > tbody > tr > td {}
+.table .data {padding:0;}
+.inner > tbody > tr > td {border:0 0 0 1px;}
 .selectall,.unselectall,.number-row .number,.other {cursor:pointer;}
 .theader .col-md-1 {text-align:center;font-size:small}
