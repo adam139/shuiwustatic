@@ -2,6 +2,6 @@
 table.inner {margin-bottom:0}
 @media print {
  .printthis,.hiddenprint {display:none;}
- body {font-size:12px;}
+ body {font-size:10px;}
     }
 @page {margin:0;size:auto}    
