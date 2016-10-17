@@ -1,6 +1,7 @@
 #content-header,#portal-footer-wrapper{display:none;}
 table.inner {margin-bottom:0}
 @media print {
-        .printthis {display:none;}
+ .printthis,.hiddenprint {display:none;}
+ body {font-size:12px;}
     }
 @page {margin:0;size:auto}    
