@@ -1,7 +1,8 @@
 #content-header,#portal-footer-wrapper{display:none;}
 table.inner {margin-bottom:0}
+.outer tr:last-child  td:last-child {border-top-width:1px;}
 @media print {
  .printthis,.hiddenprint {display:none;}
- body {font-size:10px;}
+ body {font-size:14px;}
     }
 @page {margin:0;size:auto}    
