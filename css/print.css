@@ -3,6 +3,7 @@ table.inner {margin-bottom:0}
 .outer tr:last-child  td:last-child {border-top-width:1px;}
 @media print {
  .printthis,.hiddenprint {display:none;}
- body {font-size:14px;}
+ body {font-size:16px;margin-left:16px;margin-right:16px;}
+ 
     }
 @page {margin:0;size:auto}    

@@ -1,5 +1,5 @@
 .portaltype-shuiwu-baoshui-nashuiren #plone-contentmenu-factories {display:none;}
-#plone-contentmenu-portletmanager,#contentview-folderContents,#plone-contentmenu-display {display:none;}
+#plone-contentmenu-actions,#plone-contentmenu-portletmanager,#contentview-folderContents,#plone-contentmenu-display {display:none;}
 #content-header{margin-bottom:15px;}
 #search_input{width:100%;}
 div.mce-fullscreen{z-index:1031}
