@@ -67,8 +67,9 @@ img.right{float:right}
   left: 0;
 }
 .report .table {color:#000;margin-bottom:0;border:1px solid #000;}
+.report .data .table{border-left-width:0;border-bottom-width:0;border-left-width:0}
 table > tbody > tr > th,table > tbody > tr > td {border:1px solid #000;}
-.table > tbody > tr > .property {padding-right:8px;}
+.table > tbody > tr > td.property {padding-right:8px;}
 .inner {padding:0;border-width:0;}
 .table .data {padding:0;border-width:0;}
 .table .notable .data {border-bottom-width:1px;}
