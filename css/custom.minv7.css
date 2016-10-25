@@ -67,6 +67,7 @@ img.right{float:right}
   left: 0;
 }
 .report .table {color:#000;margin-bottom:0;border:1px solid #000;}
+ .report table.top {border-bottom-width:0;}
 .report .table .inner{border-left-width:0;border-bottom-width:0;border-left-width:0;border-right-width:0}
 .inner > tbody > tr > td {border-right-color:#000;}
 .table > tbody > tr > td.property {padding-right:8px;}
