@@ -1,5 +1,5 @@
  body {font-size:16px;}
- .report >.table {margin-left:6px;}
+
 #content-header,#portal-footer-wrapper{display:none;}
 table.inner {margin-bottom:0}
 .outer tr:last-child  td:last-child {border-top-width:1px;}
