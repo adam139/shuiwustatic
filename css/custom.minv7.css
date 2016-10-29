@@ -71,7 +71,7 @@ img.right{float:right}
  .report table.top {border-bottom-width:0;}
 .report .table .inner{border-left-width:0;border-bottom-width:0;border-left-width:0;border-right-width:0}
 .inner > tbody > tr > td {border-right-color:#000;}
-.report > .outer > tbody > tr > .property {padding-right:8px;font-weight:bold;}
+.report > .table > tbody > tr > .property {padding-left:8px;font-weight:bold;}
 .inner {padding:0;border-width:0;}
 .table .data {padding:0;border-width:0;}
 .table .notable .data {border-bottom-width:1px;}
