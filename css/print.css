@@ -43,6 +43,6 @@ border-right-width:0;
   position: relative;
   cursor:pointer;
 }
-.report .table-condensed > tbody > tr > td {padding:3px;}
+.report .table-condensed > tbody > tr > td {line-height:1.1;}
 .report > .table > tbody > tr > td.sign {text-align:center;}
    
