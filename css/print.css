@@ -1,4 +1,4 @@
-#visual-portal-wrapper{padding-left:0;font-size:15px;}
+#visual-portal-wrapper{padding-left:0;font-size:14px;}
 #content-header,#portal-footer-wrapper{display:none;}
 table.inner {margin-bottom:0}
 .outer tr:last-child  td:last-child {border-top-width:1px;}
@@ -33,4 +33,15 @@ table.inner {margin-bottom:0}
 }
 .table-area > .row > div:last-child {
 border-right-width:0;
-}    
+}
+.row .p-checkbox span,.row .checkbox span {/* <-- style the artificial checkbox */
+  height: 16px;
+  width: 16px;
+  margin-top:3px;
+  border: 1px solid #000;
+  display: inline-block;
+  position: relative;
+  cursor:pointer;
+}
+.report > .table > tbody > tr > td.sign {text-align:right;margin-right:80px;}
+   
