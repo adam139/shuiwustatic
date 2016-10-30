@@ -43,6 +43,5 @@ border-right-width:0;
   position: relative;
   cursor:pointer;
 }
-.report > .table > tbody > tr > td.sign {text-align:right;
-border:none;display:block;margin-right:80px;}
+.report > .table > tbody > tr > td.sign {text-align:center;}
    
