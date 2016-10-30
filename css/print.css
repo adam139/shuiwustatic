@@ -4,6 +4,27 @@ table.inner {margin-bottom:0}
 .outer tr:last-child  td:last-child {border-top-width:1px;}
 .theader span {font-size:14px;display:inline-block;}
 @media print {
-.hidden-print {display:none;} 
+.hidden-print {display:none;}
+@page {margin:0;size:auto}
+   .table-area > .row > div {
+      display: inline-block;  
+      border: solid 1px #000;
+      margin: 0.2cm;
     }
-@page {margin:0;size:auto}    
+    .table-area > .row {
+      display: block;
+    }
+  }
+
+.table-area {
+    display: table;
+    border-spacing: 2px;
+}
+.table-area > .row {
+    display: table-row;
+}
+.table-area > .row > div {
+    display: table-cell;
+    border: solid 1px #000;
+    padding: 5px;
+}    
