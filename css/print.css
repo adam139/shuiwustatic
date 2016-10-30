@@ -19,6 +19,7 @@ table.inner {margin-bottom:0}
 .table-area {
     display: table;
     border-spacing: 2px;
+    width:100%;
 }
 .table-area > .row {
     display: table-row;
@@ -26,5 +27,10 @@ table.inner {margin-bottom:0}
 .table-area > .row > div {
     display: table-cell;
     border: solid 1px #000;
+    border-width: 0 1px 0 0;
     padding: 5px;
+    text-align:center;
+}
+.table-area > .row > div:last-child {
+border-right-width:0;
 }    
