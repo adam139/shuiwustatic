@@ -71,13 +71,12 @@ img.right{float:right}
 .report .table .editing {font-size:14px;}
  .report table.top {border-bottom-width:0;}
 .report .table .inner{border-left-width:0;border-bottom-width:0;border-left-width:0;border-right-width:0}
-.inner > tbody > tr > td {border-right-color:#000;}
 .report > .table > tbody > tr > .property {padding-left:8px;font-weight:bold;}
 .inner {padding:0;border-width:0;}
 .table .data {padding:0;border-width:0;}
 .table .notable .data {border-bottom-width:1px;}
 .table .notable:last-child .data {border-bottom-width:0;}
-.inner > tbody > tr > td {border-bottom-width:0;text-align:center;}
+.inner > tbody > tr > td {border-right-color:#000;border-bottom-width:0;text-align:center;}
 .report .table td:last-child {border-right-width:0;}
 .report .table td:first-child {border-left-width:0;}
 .report > .top > tbody > tr:last-child > td {border-bottom-width:0;}
