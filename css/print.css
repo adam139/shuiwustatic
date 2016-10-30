@@ -38,7 +38,7 @@ border-right-width:0;
   height: 16px;
   width: 16px;
   margin-top:3px;
-  border: 1px solid #000;
+  border: none;
   display: inline-block;
   position: relative;
   cursor:pointer;
