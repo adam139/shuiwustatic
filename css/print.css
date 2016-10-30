@@ -3,7 +3,7 @@
 #content-header,#portal-footer-wrapper{display:none;}
 table.inner {margin-bottom:0}
 .outer tr:last-child  td:last-child {border-top-width:1px;}
-.theader span {font-size:14px;}
+.theader span {font-size:14px;display:inline-block;}
 @media print {
  .printthis,.hiddenprint {display:none;}
 
