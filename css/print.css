@@ -17,7 +17,7 @@ table.inner {margin-bottom:0}
   position: relative;
   cursor:pointer;
 }
-.report .table-condensed > tbody > tr > td {padding:2px;}
+.table-condensed > tbody > tr > td {padding:2px;}
 .report .table-condensed > tbody > tr > td {line-height:1;}
 .report > .table > tbody > tr > td.sign {text-align:center;}
 .theader .col-md-1 span {
