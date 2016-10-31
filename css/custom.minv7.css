@@ -77,8 +77,8 @@ img.right{float:right}
 .table .notable .data {border-bottom-width:1px;}
 .table .notable:last-child .data {border-bottom-width:0;}
 .inner > tbody > tr > td {border-right-color:#000;border-bottom-width:0;text-align:center;}
-.report .inner td:last-child {border-right-width:0;}
-.report .inner td:first-child {border-left-width:0;}
+.report .table td:last-child {border-right-width:0;}
+.report .table td:first-child {border-left-width:0;}
 .report > .top > tbody > tr:last-child > td {border-bottom-width:0;}
 .report > table.bottom {border-top-width:0;}
 .selectall,.unselectall,.number-row .number,.other {cursor:pointer;}

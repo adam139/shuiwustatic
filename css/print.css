@@ -28,6 +28,7 @@ table.inner {margin-bottom:0}
   display: inline-block;
   position: relative;
   cursor:pointer;
+  text-align:center;
 }
 span.yue1::before {
   content: '1月';
