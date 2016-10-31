@@ -47,15 +47,84 @@ border-right-width:0;
 .report .table-condensed > tbody > tr > td {line-height:1.1;}
 .report > .table > tbody > tr > td.sign {text-align:center;}
 .theader .col-md-1 span {
-	  height: 16px;
-  width: 16px;
+  height: 24px;
+  width: 24px;
   margin-top:3px;
   border: none;
   display: inline-block;
   position: relative;
   cursor:pointer;
-	  content: '\2714';
+}
+span.yue1::before {
+  content: '1月';
   position: absolute;
   top: -5px;
-  left: 0;}
+  left: 0;	
+}
+span.yue2::before {
+  content: '2月';
+  position: absolute;
+  top: -5px;
+  left: 0;	
+}
+span.yue3::before {
+  content: '3月';
+  position: absolute;
+  top: -5px;
+  left: 0;	
+}
+span.yue4::before {
+  content: '4月';
+  position: absolute;
+  top: -5px;
+  left: 0;	
+}
+span.yue5::before {
+  content: '5月';
+  position: absolute;
+  top: -5px;
+  left: 0;	
+}
+span.yue6::before {
+  content: '6月';
+  position: absolute;
+  top: -5px;
+  left: 0;	
+}
+span.yue7::before {
+  content: '7月';
+  position: absolute;
+  top: -5px;
+  left: 0;	
+}
+span.yue8::before {
+  content: '8月';
+  position: absolute;
+  top: -5px;
+  left: 0;	
+}
+span.yue9::before {
+  content: '9月';
+  position: absolute;
+  top: -5px;
+  left: 0;	
+}
+span.yue10::before {
+  content: '10月';
+  position: absolute;
+  top: -5px;
+  left: 0;	
+}
+span.yue11::before {
+  content: '11月';
+  position: absolute;
+  top: -5px;
+  left: 0;	
+}
+span.yue12::before {
+  content: '12月';
+  position: absolute;
+  top: -5px;
+  left: 0;	
+}
    
