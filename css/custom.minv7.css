@@ -67,7 +67,7 @@ img.right{float:right}
   left: 0;
 }
  .report >.table {margin-left:6px;margin-right:6px;}
-.report .table {color:#000;margin-bottom:0;border:1px solid #000;font-size:16px;}
+.report .table {color:#000;margin-bottom:0;border:1px solid #000;font-size:14px;}
 .report .table .editing {font-size:14px;}
  .report table.top {border-bottom-width:0;}
 .report .table .inner{border-left-width:0;border-bottom-width:0;border-left-width:0;border-right-width:0}
