@@ -54,7 +54,8 @@ img.right{float:right}
 .p-checkbox span,.checkbox span {/* <-- style the artificial checkbox */
   height: 20px;
   width: 20px;
-  margin-top:7px;
+  margin-top:3px;
+  margin-bottom:3px;
   border: 1px solid #000;
   display: inline-block;
   position: relative;
